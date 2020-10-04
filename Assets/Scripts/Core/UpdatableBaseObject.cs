@@ -1,7 +1,7 @@
 using UnityEngine;
-using Group8.Interfaces;
+using SelfishCoder.BaseProject.Interfaces;
 
-namespace Group8.Base
+namespace SelfishCoder.BaseProject.Base
 {
     /// <summary>
     /// 

@@ -1,4 +1,4 @@
-﻿namespace Group8.Management
+﻿namespace SelfishCoder.BaseProject.Management
 {
     public enum GameState
     {

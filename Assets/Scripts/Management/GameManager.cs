@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using UnityEngine;
-using Group8.Base;
-using Group8.Extensions;
+using SelfishCoder.BaseProject.Base;
+using SelfishCoder.BaseProject.Extensions;
 using System.Collections.Generic;
 
-namespace Group8.Management
+namespace SelfishCoder.BaseProject.Management
 {
     [DisallowMultipleComponent]
     public class GameManager : MonoBehaviour

@@ -1,4 +1,4 @@
-namespace Group8.Interfaces
+namespace SelfishCoder.BaseProject.Interfaces
 {
     /// <summary>
     /// Used for objects need to initialize.

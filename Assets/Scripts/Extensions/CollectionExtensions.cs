@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Group8.Extensions
+namespace SelfishCoder.BaseProject.Extensions
 {
     /// <summary>
     /// 

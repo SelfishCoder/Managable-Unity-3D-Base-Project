@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace Group8.Management
+namespace SelfishCoder.BaseProject.Management
 {
     public static class SaveLoadManager
     {
